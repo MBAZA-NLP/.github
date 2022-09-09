@@ -2,7 +2,7 @@
 
 We are a community working on Natural Language Processing (NLP) for Kinyarwanda and other low-resource languages. For example, we are working on Kinyarwanda automatic speech recognition (ASR, also known as Speech-to-Text, STT), Text-to-Speech (TTS), and semantic chatbots.
 
-The code, models and datasets will be shared soon on ![GitHub](https://github.com/MBAZA-NLP) and/or ![Hugging Face](https://huggingface.co/mbazaNLP).
+The code, models and datasets will be shared soon on ![Github](https://github.com/MBAZA-NLP) and/or ![HuggingFace](https://huggingface.co/mbazaNLP).
 
 | Vision | Mission |
 | ------ | ------- |
