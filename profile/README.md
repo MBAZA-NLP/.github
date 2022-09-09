@@ -9,7 +9,7 @@ The code, models and datasets will be shared soon on [Github](https://github.com
 | Sustainable community rooted in partnership, extending on pre-existing open packages to create inclusive NLP solutions for Kinyarwanda and other low-resource languages | Foster the use of NLP and AI, to implement innovative use cases in Rwanda and the East Africa region |
 
 ## What's in it for me?
-[why_join](https://user-images.githubusercontent.com/46764284/170695647-28751848-ca20-4627-8f78-108f71221ff4.png)
+![why_join](https://user-images.githubusercontent.com/46764284/170695647-28751848-ca20-4627-8f78-108f71221ff4.png)
 
 ## How to get started
 First of all, [join our Slack channel](https://join.slack.com/t/mbazanlpcommunity/shared_invite/zt-19ie5idhj-f0yWfOBgTKzs7VOKCcr_pw)!
